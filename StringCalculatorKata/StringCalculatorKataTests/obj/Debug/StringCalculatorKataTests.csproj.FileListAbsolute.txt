@@ -1,0 +1,9 @@
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\StringCalculatorKataTests.dll
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\StringCalculatorKataTests.pdb
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\nunit.framework.dll
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\StringCalculatorKata.dll
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\StringCalculatorKata.pdb
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\bin\Debug\nunit.framework.xml
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\StringCalculatorKataTests.csprojResolveAssemblyReference.cache
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\StringCalculatorKataTests.dll
+C:\Users\VasTheGreek\Documents\GitHub\StringCalculatorKata\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\StringCalculatorKataTests.pdb
